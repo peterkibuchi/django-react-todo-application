@@ -72,7 +72,7 @@
    npm install
    ```
 
-To run the application you will need two terminal windows (one pointed to the frontend directory, the other to the backend directory) to start the servers for this application:
+To run the application you will need two terminal windows (one pointed to the frontend directory, the other to the backend directory) to start the servers:
 1. To start the backend server, navigate to the _backend_ directory and run the following command:
    ```
    python manage.py runserver
