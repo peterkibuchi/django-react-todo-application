@@ -73,13 +73,13 @@
    ```
 
 To run the application you will need two terminal windows (one pointed to the frontend directory, the other to the backend directory) to start the servers:
-1. To start the backend server, navigate to the _backend_ directory and run the following command:
+1. In one terminal window, navigate to the _backend_ directory and run the following command to start the backend server:
    ```
    python manage.py runserver
    ```
    (The virtual environment has to be active for it to work)
 
-2. To start the frontend server, navigate to the _frontend_ directory and run the following command:
+2. In the other terminal window, navigate to the _frontend_ directory and run the following command to start the frontend server:
    ```
    npm start
    ```
