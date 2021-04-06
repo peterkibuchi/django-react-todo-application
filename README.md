@@ -83,7 +83,7 @@ To run the application you will need two terminal windows (one pointed to the fr
    ```
    npm start
    ```
-   This will run the server and automatically open a new browser window with the address `http://localhost:3000`.
+   This will run the server and should automatically open a new browser window at the address `http://localhost:3000`.
 
 Voila! You're all set up. Feel free to experiment with the application.
 
