@@ -108,4 +108,4 @@ To do:
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to get in touch.
