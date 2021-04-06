@@ -33,7 +33,7 @@
 
 ## Setup
 <!-- Provide a link to the demo version here as well. -->
-> You need to have your command line set up, preferably _Git Bash_. If you don't already, you can follow these [instructions to it set up](https://www.codecademy.com/courses/learn-the-command-line/articles/command-line-setup).
+> You need to have your command line set up, preferably _Git Bash_. If you don't already, you can follow these [instructions to it set up](https://www.codecademy.com/articles/command-line-setup).
 >
 > You will also need to have _Python3_, _pipenv_ and _npm_ installed.
 >
