@@ -61,7 +61,7 @@
    pipenv install
    ```
 
-5. Navigate into the frontend directory and run migrations:
+5. Navigate into the backend directory and run migrations:
    ```
    python manage.py migrate
    ```
