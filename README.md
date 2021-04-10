@@ -61,12 +61,17 @@
    pipenv install
    ```
 
-5. Navigate into the backend directory and run migrations:
+5. Navigate into the backend directory. Setup the local configurations:
+   ```
+   cp .env.example .env
+   ```
+
+6. Run migrations:
    ```
    python manage.py migrate
    ```
 
-6. Navigate into the frontend directory and install the dependencies:
+7. Navigate into the frontend directory and install the dependencies:
    ```
    cd frontend
    npm install
