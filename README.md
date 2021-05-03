@@ -9,7 +9,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -21,9 +21,10 @@
 
 
 ## Technologies Used
+- React
+- Axios
 - Django
 - Django Rest Framework
-- React
 
 
 ## Features
@@ -108,9 +109,9 @@ To do:
 - Add an authentication system that enables users to access their task items from any device.
 
 
-## Inspiration
+## Acknowledgements
 - This project was based on [this tutorial](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react) by the Digital Ocean Community.
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to get in touch.
+Created by [Peter Kibuchi](https://www.peterkibuchi.com).
